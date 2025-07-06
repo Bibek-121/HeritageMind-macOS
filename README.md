@@ -34,7 +34,7 @@ This helps familiarize users with basic orientation questions.
 - Xcode 15+  
 - Git
 
-### ▶️ Steps:
+### Steps:
 
 1. **Clone the repository**
     ```bash
